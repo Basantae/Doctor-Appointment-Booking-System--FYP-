@@ -1,6 +1,6 @@
 # 🩺 Doctor Appointment Booking System
 
-A modern web application built using the **MERN Stack** that allows patients to easily book, manage, and track doctor appointments — anytime, anywhere.
+A modern web application built using the **MERN Stack** that allows patients to easily book, manage, and track doctor appointments - anytime, anywhere.
 
 ---
 
